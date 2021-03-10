@@ -2,3 +2,10 @@ Well
 Hm
 Text?
 Only more text,sorry
+
+var
+int a = 13
+int b = a
+begin;
+
+end.
